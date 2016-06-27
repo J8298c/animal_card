@@ -1,0 +1,47 @@
+body{
+	box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.75);
+    width: 375px;
+    box-sizing: content-box;
+}
+div {
+    background-color: rgba(51, 92, 159, 0.71);
+    color: aliceblue;
+}
+h3 {
+	border: none;
+	padding-left: 10px;
+    padding-top: 2px;
+    text-align: center;
+    font-family: fantasy;
+}
+img {
+	border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    height: 300px;
+    width: 250px;
+}
+.inner {
+	border-spacing: 15px;
+	border: none;
+	border-width: 2px;
+	padding: 10px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+
+}
+.facts {
+	font-style: italic;
+    list-style-type: none
+}
+
+span {
+    font-weight: bolder;
+    color: #1f2f4d;
+}
+figcaption {
+    font-size: 10px;
+    text-align: right;
+}
